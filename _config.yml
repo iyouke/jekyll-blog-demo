@@ -11,8 +11,8 @@ rss: RSS
 
 ### Build settings
 
-url: https://michaelcurrin.github.io
-baseurl: /jekyll-blog-demo
+url: http://www2.xyyouke.cn
+baseurl: /
 
 permalink: pretty
 
